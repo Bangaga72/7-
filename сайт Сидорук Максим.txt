@@ -1,0 +1,18 @@
+<html>
+<head>
+</title> Сидорук
+<body bgcolor="green">7 чудес світу
+<ul type="square">
+<li>Піраміди в гізі</li>
+<li>Вавелонські сади Семіраміди</li>
+<li>Храм Артеміди</li>
+<li>Статуя Зевса</li>
+<li>Мавзолей у Галікарнасі</li>
+<li>Колос Родоський</li>
+<li>Фароський маяк</li>
+</ul>
+<br>
+<img scr="https://upload.wikimedia.org/wikipedia/commons/8/82/SevenWondersOfTheWorld.jpg">
+
+</body>
+</html>
